@@ -1,0 +1,12 @@
+korisno:
+Structure constrained by metadata in networks of chess players: https://www.nature.com/articles/s41598-017-15428-z#Bib1
+Structure and inference in annotated networks: https://www.nature.com/articles/ncomms11863
+Detecting rich-club ordering in complex networks: https://www.nature.com/articles/nphys209
+
+diskutabilno:
+Network Structure, Metadata, and the Prediction of Missing Nodes and Annotations: https://journals.aps.org/prx/pdf/10.1103/PhysRevX.6.031038
+Community detection in networks: Structural communities versus ground truth: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062805
+Assortative Mixing in Networks: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.208701
+
+suva matematika:
+Weighted Evolving Networks: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5835
