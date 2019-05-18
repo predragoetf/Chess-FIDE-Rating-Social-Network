@@ -2,11 +2,20 @@ korisno:
 Structure constrained by metadata in networks of chess players: https://www.nature.com/articles/s41598-017-15428-z#Bib1
 Structure and inference in annotated networks: https://www.nature.com/articles/ncomms11863
 Detecting rich-club ordering in complex networks: https://www.nature.com/articles/nphys209
+Analyzing Chess Resulys Network: http://snap.stanford.edu/class/cs224w-2017/projects/cs224w-4-final.pdf
+
 
 diskutabilno:
 Network Structure, Metadata, and the Prediction of Missing Nodes and Annotations: https://journals.aps.org/prx/pdf/10.1103/PhysRevX.6.031038
 Community detection in networks: Structural communities versus ground truth: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.90.062805
 Assortative Mixing in Networks: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.208701
+Community-Affiliation Graph Model for Overlapping Network Community Detection: https://www-cs.stanford.edu/~jure/pubs/agmfit-icdm12.pdf
+Community Detection in Networks with Node Attributes: https://arxiv.org/pdf/1401.7267.pdf;
+
+Sex Differences in Intellectual Performance: Analysis of a Large Cohort of Competitive Chess Players: https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2006.01828.x
 
 suva matematika:
 Weighted Evolving Networks: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.86.5835
+
+sta sam ti rekao :D :
+Did the Soviets collude? A statistical analysis of championship chess 1940–1978: https://www.sciencedirect.com/science/article/pii/S0167268109000298
